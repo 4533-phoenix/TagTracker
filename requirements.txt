@@ -1,5 +1,5 @@
-apriltag==0.0.16
-numpy==1.22.3
-opencv-python==4.5.5.64
-pynetworktables==2021.0.0
-imutils==0.5.4
+apriltag
+numpy
+opencv-python
+pynetworktables
+imutils
